@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689365941 source:g:\meu drive\uva - universidade veiga de almeida\1º periodo\livros estudados\algoritmo e programação em linguagem c\aula 4 - estruturas de controle de programação - repetição\9.1 ascii 65 a 75\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
