@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689810942 source:g:\meu drive\uva - universidade veiga de almeida\1º periodo\livros estudados\algoritmo e programação em linguagem c\aula 4 - estruturas de controle de programação - repetição\15. encanador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
