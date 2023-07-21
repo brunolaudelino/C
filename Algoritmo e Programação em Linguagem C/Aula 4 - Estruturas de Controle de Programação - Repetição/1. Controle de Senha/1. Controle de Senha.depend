@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688839310 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 4 - estruturas de controle de programação - repetição\1. controle de senha\main.c
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+
