@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689900450 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 3 - estruturas de controle de programação - decisão\10. imc ob\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
