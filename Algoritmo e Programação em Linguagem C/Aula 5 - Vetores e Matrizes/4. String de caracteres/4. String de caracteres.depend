@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690051271 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 5 - vetores e matrizes\4. string de caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
