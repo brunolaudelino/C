@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1690238034 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 5 - vetores e matrizes\8.1 maior que ou menor que\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+

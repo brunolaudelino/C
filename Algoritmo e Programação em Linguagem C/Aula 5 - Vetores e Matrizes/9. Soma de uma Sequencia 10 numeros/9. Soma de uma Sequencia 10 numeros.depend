@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1690239213 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 5 - vetores e matrizes\9. soma de uma sequencia 10 numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
