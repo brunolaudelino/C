@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690251825 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 6 - funções\1. implemente uma função\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
