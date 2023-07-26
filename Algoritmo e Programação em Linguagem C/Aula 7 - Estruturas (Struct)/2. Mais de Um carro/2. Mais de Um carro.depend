@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690399260 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 7 - estruturas (struct)\2. mais de um carro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
