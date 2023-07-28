@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690581713 source:c:\users\bruno laudelino\dev - bruno laudelino\c\c++ dio\sistema bancario\main.cpp
+	<iostream>
+	<vector>
+
