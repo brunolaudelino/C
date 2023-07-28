@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690480507 source:c:\users\bruno laudelino\dev - bruno laudelino\c\algoritmo e programação em linguagem c\aula 8 - ponteiros\4. sting de um ponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
