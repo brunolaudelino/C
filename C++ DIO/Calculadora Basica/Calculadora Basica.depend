@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690667227 source:c:\users\bruno laudelino\dev - bruno laudelino\c\c++ dio\calculadora basica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
