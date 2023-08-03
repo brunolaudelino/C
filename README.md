@@ -4,7 +4,7 @@
 <body align="center">
 <p>Estudos e exércicios baseado no livro de Renato Soffner - PT-BR</p>
 <p> C ++ Eficaz de Scott Meyers - PT - BR</p>
-<img align="justify" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/JPEG/Renato.jpg?raw=true" style="border-radius: 10px; width="50" height="50">
+<img align="justify" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/JPEG/Renato.jpg?raw=true" style="border-radius: 10px;" width="100"; height="80">
 
 <p>Como complementação do meu estudo usei informações do Professor Wagner Gaspar...<a href="https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA">(Youtube)</a></p>
 <p><a href="https://www.youtube.com/@programeseufuturo">Programe seu Futuro || Curso de Programação C</a></p>
