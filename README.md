@@ -1,4 +1,3 @@
-<head><img align="center" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/GIF/html.gif?raw=true" style="border-radius: 50%;" width="50" height="50"></head></head>
 <h1 align="center"> Linguagem C / C ++ </h1>
 <h2 align=" center">Exércicios e programas em Linguagem <img align="justify" src="https://raw.githubusercontent.com/brunolaudelino/Welcome/cedd96017f25df21a003240812c3027b62fff366/HTML/Logos%20%26%20Imagens/SVG/cplusplus.svg" style="border: 50;" width="20" height="20">.</h2>
 <body align="center">
@@ -11,4 +10,5 @@
 
 <p>Tenho conhecimentos em estrutura de dados em C e em C++</p>
 <p>Que é muito utilizado em programação</p>
+<img align="center" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/GIF/html.gif?raw=true" style="border-radius: 50%;" width="50" height="50">
 </body>
