@@ -1,14 +1,14 @@
-<p><h1> Lingaguem C </h1></p>
+<head><img align="center" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/GIF/html.gif?raw=true" style="border-radius: 50%;" width="50" height="50"></head></head>
+<h1 align="center"> Linguagem C / C ++ </h1>
+<h2 align=" center">Exércicios e programas em Linguagem <img align="justify" src="https://raw.githubusercontent.com/brunolaudelino/Welcome/cedd96017f25df21a003240812c3027b62fff366/HTML/Logos%20%26%20Imagens/SVG/cplusplus.svg" style="border: 50;" width="20" height="20">.</h2>
+<body align="center">
+<p>Estudos e exércicios baseado no livro de Renato Soffner - PT-BR</p>
+<p> C ++ Eficaz de Scott Meyers - PT - BR</p>
+<img align="justify" src="https://github.com/brunolaudelino/Welcome/blob/main/HTML/Logos%20&%20Imagens/JPEG/Renato.jpg?raw=true" style="border-radius: 10px; width="50" height="50">
 
-Exércicios e programas em Linguagem C. Baseado no livro de Renato Soffner - PT-BR
-C ++ Eficaz de Scott Meyers - PT - BR
+<p>Como complementação do meu estudo usei informações do Professor Wagner Gaspar...<a href="https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA">(Youtube)</a></p>
+<p><a href="https://www.youtube.com/@programeseufuturo">Programe seu Futuro || Curso de Programação C</a></p>
 
-Como complementação do meu estudo usei informações do Professor Wagner Gaspar...(Via Youtube)
-Programe seu Futuro || Curso de Programação C
-Obrigado Wagner Gaspar por me auxiliar de forma gratuita em meus estudos...
-#gratidao 
-Reference =link=https://wagnergaspar.com/
-Reference =link=https://www.youtube.com/@programeseufuturo
-
-Tenho conhecimentos sólidos na base de programação em C e C++ Sendo que para o mercado foquei mais em C++ por conta de POO. 
-Que é muito utilizado em programação; 
+<p>Tenho conhecimentos em estrutura de dados em C e em C++</p>
+<p>Que é muito utilizado em programação</p>
+</body>
