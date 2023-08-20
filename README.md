@@ -1,5 +1,5 @@
 <h1 align="center"> Linguagem C / C ++ </h1>
-<h2 align=" center">Exércicios e programas em Linguagem <img align="justify" src="https://raw.githubusercontent.com/brunolaudelino/Welcome/cedd96017f25df21a003240812c3027b62fff366/HTML/Logos%20%26%20Imagens/SVG/cplusplus.svg" style="border: 50;" width="20" height="20">.</h2>
+<h2 align=" center">Exércicios e programas em Linguagem C e C++<img align="justify" src="https://raw.githubusercontent.com/brunolaudelino/Welcome/cedd96017f25df21a003240812c3027b62fff366/HTML/Logos%20%26%20Imagens/SVG/cplusplus.svg" style="border: 50;" width="20" height="20">.</h2>
 <body align="center">
 <p>Estudos e exércicios baseado no livro de Renato Soffner - PT-BR</p>
 <p> C ++ Eficaz de Scott Meyers - PT - BR</p>
